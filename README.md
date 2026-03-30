@@ -1,4 +1,4 @@
-https://github.com/101GI/zakrivayuschiy-teg-fd
+https://github.com/101GI/zakrivayuschiy-teg-f
 
 Яндекс Практикум, 4 спринт, "Закрывающий тег"
 
